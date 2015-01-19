@@ -1,0 +1,35 @@
+body {
+  background-color: #f8c439;
+  font-family: "Open Sans", sans-serif;
+}
+
+div.container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+img {
+  border: 1px solid #fce29c;
+  border-radius: 5px;
+  float: right;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+article {
+  float: right;
+  width: 580px;
+}
+
+aside {
+  background-color: #fce29c;
+  border-radius: 5px;
+  float: left;
+  height: 500px;
+  width: 200px;
+}
+
+h1 {
+  width: 50%;
+}
