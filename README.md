@@ -86,3 +86,7 @@ In general, allow plenty of time for practicing and exploring. This workshop is 
 You can also take a look at:
 
 - [Code and Cupcakes Event Guide](https://github.com/codeandcupcakes/event-guide)
+
+## License
+
+Workshop materials are licensed by a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike</a> license, which means anyone can use, adapt and share the materials as long as they don't charge money for them or place additional restrictions on them. The idea is to make these workshops accessible to everyone. 🙂
