@@ -8,6 +8,8 @@
   - Contains an example slide deck (PDF) used during the workshop.
 - README:
   - Notes on how the materials are used in the workshop.
+- Resources:
+  - List of online resources for further learning.
 
 ## Workshop Notes
 
@@ -80,6 +82,8 @@ In general, allow plenty of time for practicing and exploring. This workshop is 
 - [HTML tag list](https://www.htmldog.com/references/html/tags/)
 - [CSS property list](https://htmldog.com/references/css/properties/)
 - [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+You can also point workshop attendees to our list of [Resources](https://github.com/codeandcupcakes/workshop-materials/blob/master/resources.md) for further learning.
 
 ## Other Repositories
 
